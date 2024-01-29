@@ -1,6 +1,6 @@
 # SqlDataExtractor
 
-ETL solution for pulling data from target Sql Server:
+ETL solution for pulling data from target Sql Server view:
 
 1. Connects to target SQL Server
 2. Interates thru views (for each):
